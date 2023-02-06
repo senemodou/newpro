@@ -1,0 +1,42 @@
+.container-fluid img{
+    border-radius: 75%;
+    width: 70px;
+    height: 70px;
+}
+.col-6 img{
+    width: 220px;
+    height: 160px;
+}
+.col-3 img{
+    width: 220px;
+    height: 160px;
+}
+.col-lg-3 img{
+	width: 200px;
+	height: 100px;
+}
+
+
+.slide {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.container-md{
+	display: flex;
+	justify-content: space-between;
+	border-top: 50px;
+}
+.container-card{
+	display: flex;
+}
+.container-card .row{
+	justify-content: space-between;
+}
+
+
+
+	
+	
+	
+	
